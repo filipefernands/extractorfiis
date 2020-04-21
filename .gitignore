@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# Byte-compiled
+__pycache__/
+
+# Environments
+venv/
+
+# Log
+log/
